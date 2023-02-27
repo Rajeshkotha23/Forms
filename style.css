@@ -1,0 +1,24 @@
+p{
+    font-weight: 900;
+}
+body{
+    background-color: lightblue;
+}
+.inputElement{
+    background-color:lightcoral;
+    border: 0;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+    font-weight: 500;
+}
+#submit{
+    text-align: center;
+}
+form{
+    background-color:ghostwhite ;
+    margin: 0 auto;
+    width: 40%;
+    padding: 30px;
+    border-radius: 7px;
+}
